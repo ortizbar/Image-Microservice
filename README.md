@@ -43,7 +43,7 @@ print(response.json())
 
 ## How to Receive Data
 
-###Example Response:
+### Example Response:
 
 ```
 Test program sent request to Image Microservice.
