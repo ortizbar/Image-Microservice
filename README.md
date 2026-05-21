@@ -53,4 +53,5 @@ Test program received response from Image Microservice:
 
 ## UML Sequence Diagram
 
-<img width="1063" height="587" alt="Screenshot 2026-05-20 200907" src="https://github.com/user-attachments/assets/9c98d141-1f38-4c59-99a1-c9a164d36f85" />
+<img width="997" height="634" alt="Screenshot 2026-05-20 192232" src="https://github.com/user-attachments/assets/091e4bbb-c519-4045-9ef1-4a6399c33360" />
+
